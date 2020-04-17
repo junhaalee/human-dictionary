@@ -1,0 +1,36 @@
+/*common*/
+#story_text{
+  line-height: 30px;
+  text-align: left;
+  text-indent: 10px;
+}
+.star:hover {
+  width: 20px;
+  height: 20px;
+  background: url("https://cdnjs.cloudflare.com/ajax/libs/octicons/8.0.0/svg/star.svg") no-repeat;
+  display: inline-block;
+  float: right;
+}
+.star_solid {
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+    background: url("/img/star-solid.svg") no-repeat;
+    display: inline-block;
+    float: right;
+}
+.star_regular {
+    margin-left: 5px;
+    width: 20px;
+    height: 20px;
+    background: url("/img/star-regular.svg") no-repeat;
+    display: inline-block;
+    float: right;
+}
+
+.col-3 {
+    padding-left: 0px;
+}
+.navbar-nav {
+    cursor: pointer;
+}

@@ -1,0 +1,7 @@
+#dict_name{
+  float: left;
+  width: 90%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

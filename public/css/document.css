@@ -1,0 +1,21 @@
+#document_title{
+	list-style: none;
+}
+.nav-tabs {
+  overflow-x: auto;
+  overflow-y: hidden;
+  display: -webkit-box;
+  display: -moz-box;
+}
+.nav-tabs>li {
+  float: none;
+}
+
+.tab-content {
+    line-height: 30px;
+    text-align: left;
+    text-indent: 10px;
+}
+.jumbotron {
+    margin-bottom: 0rem;
+}
